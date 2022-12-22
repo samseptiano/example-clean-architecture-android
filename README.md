@@ -37,8 +37,8 @@
 - MockK Test
 
 
-## CONNECT👍
+[//]: # (## CONNECT👍)
 
-Connect with me through my socials:
+[//]: # (Connect with me through my socials:)
 
 [//]: # ([Stackoverflow]&#40;https://stackoverflow.com/story/ali-azaz-alam&#41;, [Medium]&#40;https://medium.com/@ali.azaz.alam&#41;, [Twitter]&#40;https://twitter.com/AliAzazAlam1&#41;, and [LinkedIn]&#40;https://www.linkedin.com/in/aliazazalam/&#41;)
